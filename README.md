@@ -1,39 +1,22 @@
-# GeometricWeather
+# LightWeather
 
-![Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/work/preview_header.png)
 
 ### app简介
 
-* 遵守google material design设计规范。
-* 纷繁灵动的动画。
-* 纯粹的体验。
-* 无任何常驻后台服务。
-* 提供天气通知。
-* 提供6种不同规格的桌面小部件。
-* 简化的操作层级。
-
-### 上架情况
-
-* 酷安： http://www.coolapk.com/apk/wangdaye.com.geometricweather
-* google play： https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather
+* 基于几何天气的二开
+* 光线的通透背景
+* 现在只是fork*
 
 
-### 联系作者
 
-* 在酷安Geometric Weather页面留言
-* wangdayeeeeee@gmail.com
+### 联系
+
+* real@gdmc.tk
 
 
 ### PREVIEW
 
-![](https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/preview/thumbnails/preview_home_day.png)
-![](https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/preview/thumbnails/preview_home_day_hourly.png)
-![](https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/preview/thumbnails/preview_home_night.png)
-![](https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/preview/thumbnails/preview_alert.png)
-![](https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/preview/thumbnails/preview_manage.png)
-![](https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/preview/thumbnails/preview_search.png)
-![](https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/preview/thumbnails/preview_widget.png)
-
+[（也许吧）](https://www.coolapk.com/feed/25220587?shareKey=Yzc1NTQ1OTBkZjY0NjAzZDA4ZWQ~&shareUid=3764024&shareFrom=com.coolapk.app_3.0)
 
 ### LICENSE
 
